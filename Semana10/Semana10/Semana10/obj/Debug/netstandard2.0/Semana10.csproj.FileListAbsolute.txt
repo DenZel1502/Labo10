@@ -1,0 +1,17 @@
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\bin\Debug\netstandard2.0\Semana10.deps.json
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\bin\Debug\netstandard2.0\Semana10.dll
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\bin\Debug\netstandard2.0\Semana10.pdb
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\Semana10.csproj.AssemblyReference.cache
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\Semana10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\ViewToViewDemo.xaml.g.cs
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\Semana10.AssemblyInfoInputs.cache
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\Semana10.AssemblyInfo.cs
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\Semana10.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\Semana10.dll
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\refint\Semana10.dll
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\Semana10.pdb
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\ref\Semana10.dll
+C:\Users\Denzel\source\repos\Semana10\Semana10\Semana10\obj\Debug\netstandard2.0\PickerDemo.xaml.g.cs
